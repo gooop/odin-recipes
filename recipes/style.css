@@ -6,6 +6,23 @@
     margin-right: auto;
 }
 
+.title,
+.header,
+.description,
+.list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .title {
     text-align: center;
+    font-size: 50px;
 }
+
+.header {
+    font-size: 36px;
+}
+
+.list {
+    background-color: gray;
+}
+
